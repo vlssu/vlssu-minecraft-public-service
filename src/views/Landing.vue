@@ -3,7 +3,7 @@
         <div class="position-relative">
             <!-- shape Hero -->
             <section class="section-shaped my-0">
-                <div class="shape shape-style-1 shape-default shape-skew">
+                <div class="shape shape-style-1 bj-2 shape-skew">
                 </div>
                 <div class="container shape-container d-flex">
                     <div class="col px-0">
@@ -205,16 +205,15 @@
                     <div class="col-md-6">
                         <div class="pl-md-5">
                             <icon name="ni ni-settings" class="mb-5" size="lg" type="warning" shadow rounded></icon>
-
-                            <h3>Our customers</h3>
-                            <p class="lead">Don't let your uses guess by attaching tooltips and popoves to any element.
-                                Just make sure you enable them first via JavaScript.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <p>The kit comes with three pre-built pages to help you get started faster. You can change
-                                the text and images and you're good to go.</p>
-                            <a href="#" class="font-weight-bold text-warning mt-5">A beautiful UI Kit for impactful
-                                websites</a>
+                            <h3>服务器历史线</h3>
+                            <p class="lead">我们在2018年中旬创立至今</p>
+                            <p>2019初将服务器一周目的基础上增加了新版本的子服(子服命名为VLssu服)</p>
+                            <p>2019中旬将一周目正式落幕，并将子服VLssu服更改为主服</p>
+                            <p>2019-9-18创建VLssu公益服群并更名至VLssu公益服</p>
+                            <p>2019-12月第二周目正式落幕并重新规划开启三周目，但时间不长没有注重备份与服务器维护被黑，所有数据全没，被迫改为过度周目并重新开启三周目</p>
+                            <p>2020年服务器逐步推向群组服，并将服务器多元化</p>
+                            <p>2021年服务器渐渐稳定，所有环境、网站、数据库实时/定时备份，让服务器数据不再丢失、担惊受怕。</p>
+                            <a href="https://jq.qq.com/?_wv=1027&k=5mq4JvN" class="font-weight-bold text-warning mt-5">欢迎加入我们的QQ群</a>
                         </div>
                     </div>
                 </div>
@@ -299,84 +298,18 @@
                     <div class="p-5">
                         <div class="row align-items-center">
                             <div class="col-lg-8">
-                                <h3 class="text-white">We made website building easier for you.</h3>
-                                <p class="lead text-white mt-3">I will be the leader of a company that ends up being
-                                    worth billions of dollars, because I got the answers. I understand culture.</p>
+                                <h3 class="text-white">欢迎您来到我们服务器</h3>
+                                <p class="lead text-white mt-3">如果有什么建议或者想法可以在论坛中跟我们讲出，可以加入我们的QQ群，但论坛不符合国人来使用，所以更多我们在QQ群中讲出或收集建议，如果说你给我们提了建议，但是我们都没有回应你，那你可以发邮件来提醒我</p>
                             </div>
                             <div class="col-lg-3 ml-lg-auto">
-                                <base-button tag="a" href="https://www.creative-tim.com/product/vue-argon-design-system"
+                                <base-button tag="a" href="https://jq.qq.com/?_wv=1027&k=5mq4JvN"
                                              type="white" block size="lg">
-                                    Download Vue
+                                    加入我们的QQ群
                                 </base-button>
                             </div>
                         </div>
                     </div>
                 </card>
-            </div>
-        </section>
-        <section class="section section-lg">
-            <div class="container">
-                <div class="row row-grid justify-content-center">
-                    <div class="col-lg-8 text-center">
-                        <h2 class="display-3">Do you love this awesome
-                            <span class="text-success">Design System for Bootstrap 4?</span>
-                        </h2>
-                        <p class="lead">Cause if you do, it can be yours for FREE. Hit the button below to navigate to
-                            Creative Tim where you can find the Design System in HTML. Start a new project or give an
-                            old Bootstrap project a new look!</p>
-                        <div class="btn-wrapper">
-                            <a href="https://www.creative-tim.com/product/vue-argon-design-system"
-                               class="btn btn-primary mb-3 mb-sm-0">Download Vue</a>
-                        </div>
-                        <div class="text-center">
-                            <h4 class="display-4 mb-5 mt-5">Available on these technologies</h4>
-                            <div class="row justify-content-center">
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://getbootstrap.com/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="Bootstrap 4 - Most popular front-end component library">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg'"
-                                             class="img-fluid">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://www.sketchapp.com/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] Sketch - Digital design toolkit">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg'"
-                                             class="img-fluid opacity-5">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://www.adobe.com/products/photoshop.html" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] Adobe Photoshop - Software for digital images manipulation">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg'"
-                                             class="img-fluid  opacity-5">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://vuejs.org/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="Vue.js - The progressive javascript framework">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg'"
-                                             class="img-fluid">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://angularjs.org/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] Angular - One framework. Mobile &amp; desktop">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg'"
-                                             class="img-fluid opacity-5">
-                                    </a>
-                                </div>
-                                <div class="col-lg-2 col-4">
-                                    <a href="https://reactjs.org/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="[Coming Soon] React - A JavaScript library for building user interfaces">
-                                        <img v-lazy="'https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg'"
-                                             class="img-fluid opacity-5">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
 

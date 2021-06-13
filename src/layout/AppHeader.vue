@@ -19,7 +19,6 @@
             <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
                 <base-dropdown class="nav-item" menu-classes="dropdown-menu-xl">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
-                        <i class="ni ni-ui-04 d-lg-none"></i>
                         <span class="btn btn-primary">服务器旗下站点</span>
                     </a>
                     <div class="dropdown-menu-inner">
@@ -57,21 +56,20 @@
                 </base-dropdown>
                 <base-dropdown tag="li" class="nav-item">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
-                        <i class="ni ni-collection d-lg-none"></i>
                         <span class="btn btn-primary">服务器卫星地图</span>
                     </a>
-                    <router-link to="//zn.vlssu.com:40002" class="dropdown-item">生存服</router-link>
-                    <router-link to="//zn.vlssu.com:40003" class="dropdown-item">创造服</router-link>
-                    <router-link to="//zn.vlssu.com:40004" class="dropdown-item">模组服</router-link>
-                    <router-link to="//zn.vlssu.com:40005" class="dropdown-item">空岛服</router-link>
-                    <router-link to="//zn.vlssu.com:40007" class="dropdown-item">OLD生存服</router-link>
+                    <a href="//zn.vlssu.com:40002" class="dropdown-item">生存服</a>
+                    <a href="//zn.vlssu.com:40003" class="dropdown-item">创造服</a>
+                    <a href="//zn.vlssu.com:40004" class="dropdown-item">模组服</a>
+                    <a href="//zn.vlssu.com:40005" class="dropdown-item">空岛服</a>
+                    <a href="//zn.vlssu.com:40007" class="dropdown-item">OLD生存服</a>
                 </base-dropdown>
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
                     <a class="btn active btn-primary btn-sm " href="https://jmc.vlssu.com/manual/faq" role="button" aria-pressed="true" title="常见问题">
-                        <i class="fa fa-question-circle"> 常见问题</i>
-                        <span class="nav-link-inner--text d-lg-none">常见问题</span>
+                        <i class="fa fa-question-circle"></i>
+                        <span>常见问题</span>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">

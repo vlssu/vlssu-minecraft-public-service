@@ -12,7 +12,7 @@
                        data-original-title="加入我们的QQ群">
                         <i class="fa fa-qq"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href="https://discord.gg/wrKTnUR2"
+                    <a target="_blank" rel="noopener" href="https://discord.gg/Cs542v28Xt"
                        class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="加入我们Discord">
                         <i class="fa fa-comments"></i>
@@ -25,6 +25,7 @@
                     <div class="copyright">
                         &copy; 2018 - {{year}}
                         <a href="https://blog.vlssu.com" target="_blank" rel="noopener">飒爽师叔</a>
+                        <a href="http://beian.miit.gov.cn" class="nav-link" target="_blank" rel="noopener">苏ICP备20007018号</a>
                     </div>
                 </div>
                 <div class="col-md-6">
