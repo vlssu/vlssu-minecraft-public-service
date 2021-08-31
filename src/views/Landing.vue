@@ -16,7 +16,7 @@
                                 <p class="lead  text-white">    而是共同繁荣下的各自璀璨</p>
                                 <div class="btn-wrapper">
                                     <base-button tag="a"
-                                                 href="/manual"
+                                                 href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/home"
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  icon="fa fa-code">
