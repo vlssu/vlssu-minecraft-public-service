@@ -67,7 +67,7 @@
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <a class="btn active btn-primary btn-sm " href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94" role="button" aria-pressed="true" title="常见问题">
+                    <a class="btn active btn-primary btn-sm " href="https://docs.vlssu.cn/faq" role="button" aria-pressed="true" title="常见问题">
                         <i class="fa fa-question-circle"></i>
                         <span>常见问题</span>
                     </a>

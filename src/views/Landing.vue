@@ -16,7 +16,7 @@
                                 <p class="lead  text-white">    而是共同繁荣下的各自璀璨</p>
                                 <div class="btn-wrapper">
                                     <base-button tag="a"
-                                                 href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/home"
+                                                 href="https://docs.vlssu.cn"
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  icon="fa fa-code">
@@ -60,7 +60,7 @@
                                         <badge type="primary" rounded>建造</badge>
                                         <badge type="primary" rounded>合作</badge>
                                     </div>
-                                    <base-button tag="a" href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/JAVA%E6%9C%8D%E5%8A%A1%E5%99%A8/%E7%94%9F%E5%AD%98%E6%9C%8D%E5%8A%A1%E5%99%A8" type="primary" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/survive" type="primary" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -77,7 +77,7 @@
                                         <badge type="success" rounded>创世</badge>
                                         <badge type="success" rounded>合作</badge>
                                     </div>
-                                    <base-button tag="a" href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/JAVA%E6%9C%8D%E5%8A%A1%E5%99%A8/%E5%88%9B%E9%80%A0%E6%9C%8D%E5%8A%A1%E5%99%A8" type="success" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/creative" type="success" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -93,7 +93,7 @@
                                         <badge type="warning" rounded>孤岛生存</badge>
                                         <badge type="warning" rounded>无中生有</badge>
                                     </div>
-                                    <base-button tag="a" href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/JAVA%E6%9C%8D%E5%8A%A1%E5%99%A8/%E7%A9%BA%E5%B2%9B%E6%9C%8D%E5%8A%A1%E5%99%A8" type="warning" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/bskyblock" type="warning" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -109,7 +109,7 @@
                                         <badge type="info" rounded>新模式</badge>
                                         <badge type="info" rounded>新体验</badge>
                                     </div>
-                                    <base-button tag="a" href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/JAVA%E6%9C%8D%E5%8A%A1%E5%99%A8/%E6%A8%A1%E7%BB%84%E6%9C%8D%E5%8A%A1%E5%99%A8" type="info" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/mod-server" type="info" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -125,7 +125,7 @@
                                         <badge type="light" rounded>原版纯生存</badge>
                                         <badge type="light" rounded>全新体验</badge>
                                     </div>
-                                    <base-button tag="a" href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/JAVA%E6%9C%8D%E5%8A%A1%E5%99%A8/%E5%BF%AB%E7%85%A7%E6%9C%8D%E5%8A%A1%E5%99%A8" type="light" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/beta-survive" type="light" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -139,7 +139,7 @@
                                     <div>
                                         <badge type="yellow" rounded>敬请期待</badge>
                                     </div>
-                                    <base-button tag="a" href="https://wiki.vlssu.com/zh/VLssu%E5%85%AC%E7%9B%8A%E6%9C%8D/JAVA%E6%9C%8D%E5%8A%A1%E5%99%A8/OLD%E7%94%9F%E5%AD%98%E6%9C%8D" type="yellow" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/login" type="yellow" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
