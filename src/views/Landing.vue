@@ -275,7 +275,7 @@
                             <div class="pt-4 text-center">
                                 <h5 class="title">
                                     <span class="d-block mb-1">Im_Jean</span>
-                                    <small class="h6 text-muted">吉祥物</small>
+                                    <small class="h6 text-muted">吉祥物、服务器创始人</small>
                                 </h5>
                             </div>
                         </div>
@@ -309,6 +309,7 @@
                 </div>
             </div>
         </section>
+        <!--
         <section class="section section-lg pt-0">
             <div class="container">
                 <card gradient="warning"
@@ -332,6 +333,7 @@
                 </card>
             </div>
         </section>
+        -->
 
     </div>
 </template>
