@@ -32,13 +32,13 @@
                                 <p class="description d-none d-md-inline-block mb-0">这是我们服务器的皮肤站站点，也是进我们服务器最推荐的一个进入方式，在一切设置好并熟悉你将会体验到不一样的快捷</p>
                             </div>
                         </a>
-                        <a href="//bbs.vlssu.com"
+                        <a href="//bbs.vlssu.cn"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white">
                                 <i class="ni ni-chat-round"></i>
                             </div>
                             <div class="media-body ml-3">
-                                <h5 class="heading text-warning mb-md-1">VlssuBBS论坛</h5>
+                                <h5 class="heading text-warning mb-md-1">Vlssu公益服社区</h5>
                                 <p class="description d-none d-md-inline-block mb-0">服务器的一部分通知或交流都可以在这里，我们也比较推荐在这发出你的疑问或问题，我们会尽力完成你的建议或问题！</p>
                             </div>
                         </a>
