@@ -84,6 +84,24 @@
                             </div>
                             <div class="col-lg-4">
                                 <card class="border-0" hover shadow body-classes="py-5">
+                                    <icon name="ni ni-books" type="info" rounded class="mb-4">
+                                    </icon>
+                                    <h6 class="text-info text-uppercase">模组服务器</h6>
+                                    <p class="description mt-3">提供玩家自由选择的模组或玩家期待的名气整合。冒险与养老，仅是你一念之间。</p>
+                                    <div>
+                                        <badge type="info" rounded>新玩法</badge>
+                                        <badge type="info" rounded>新模式</badge>
+                                        <badge type="info" rounded>新体验</badge>
+                                    </div>
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/mod-server" type="info" class="mt-4">
+                                        了解更多
+                                    </base-button>
+                                </card>
+                            </div>
+                        </div>
+                        <div class="row row-grid">
+                            <div class="col-lg-4">
+                                <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-planet" type="warning" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-warning text-uppercase">空岛服务器</h6>
@@ -100,46 +118,30 @@
                             </div>
                             <div class="col-lg-4">
                                 <card class="border-0" hover shadow body-classes="py-5">
-                                    <icon name="ni ni-books" type="info" rounded class="mb-4">
+                                    <icon name="ni ni-send" type="yellow" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-info text-uppercase">模组服务器</h6>
-                                    <p class="description mt-3">提供玩家自由选择的模组或玩家期待的名气整合。冒险与养老，仅是你一念之间。</p>
-                                    <div>
-                                        <badge type="info" rounded>新玩法</badge>
-                                        <badge type="info" rounded>新模式</badge>
-                                        <badge type="info" rounded>新体验</badge>
-                                    </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/mod-server" type="info" class="mt-4">
-                                        了解更多
-                                    </base-button>
-                                </card>
-                            </div>
-                            <div class="col-lg-4">
-                                <card class="border-0" hover shadow body-classes="py-5">
-                                    <icon name="ni ni-send" type="light" rounded class="mb-4">
-                                    </icon>
-                                    <h6 class="text-light text-uppercase">快照服务器</h6>
+                                    <h6 class="text-yellow text-uppercase">快照服务器</h6>
                                     <p class="description mt-3">与时更新的世界，在此将更新的玩法一窥究竟。</p>
                                     <div>
-                                        <badge type="light" rounded>实时跟进</badge>
-                                        <badge type="light" rounded>原版纯生存</badge>
-                                        <badge type="light" rounded>全新体验</badge>
+                                        <badge type="yellow" rounded>实时跟进</badge>
+                                        <badge type="yellow" rounded>原版纯生存</badge>
+                                        <badge type="yellow" rounded>全新体验</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/beta-survive" type="light" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/beta-survive" type="yellow" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
                             </div>
                             <div class="col-lg-4">
                                 <card class="border-0" hover shadow body-classes="py-5">
-                                    <icon name="ni ni-fat-add" type="yellow" rounded class="mb-4">
+                                    <icon name="ni ni-fat-add" type="light" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-yellow text-uppercase">敬请期待</h6>
+                                    <h6 class="text-light text-uppercase">敬请期待</h6>
                                     <p class="description mt-3">有什么建议可以私信我们，我们将考虑实现。</p>
                                     <div>
-                                        <badge type="yellow" rounded>敬请期待</badge>
+                                        <badge type="light" rounded>敬请期待</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/login" type="yellow" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/login" type="light" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
