@@ -248,7 +248,7 @@
                                     <small class="h6 text-muted">服务器、网站等总管理</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="https://space.bilibili.com/22219285" type="warning" icon="fa-brands fa-bilibili" rounded
+                                    <base-button tag="a" href="https://space.bilibili.com/22219285" type="warning" icon="fa fa-address-card" rounded
                                                  icon-only></base-button>
                                     <base-button tag="a" href="mailto:vlssu@vlssu.com" type="warning" icon="fa fa-envelope" rounded
                                                  icon-only></base-button>
@@ -268,6 +268,10 @@
                                     <span class="d-block mb-1">冰心</span>
                                     <small class="h6 text-muted">空岛服管理</small>
                                 </h5>
+                                <div class="mt-3">
+                                    <base-button tag="a" href="https://space.bilibili.com/106446416" type="warning" icon="fa fa-address-card" rounded
+                                                 icon-only></base-button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -282,7 +286,7 @@
                                     <small class="h6 text-muted">吉祥物、服务器创始人</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="https://space.bilibili.com/26658005" type="warning" icon="fa-brands fa-bilibili" rounded
+                                    <base-button tag="a" href="https://space.bilibili.com/26658005" type="warning" icon="fa fa-address-card" rounded
                                                  icon-only></base-button>
                                 </div>
                             </div>
@@ -299,7 +303,7 @@
                                     <small class="h6 text-muted">服务器管理</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="https://space.bilibili.com/97475627" type="warning" icon="fa-brands fa-bilibili" rounded
+                                    <base-button tag="a" href="https://space.bilibili.com/97475627" type="warning" icon="fa fa-address-card" rounded
                                                  icon-only></base-button>
                                 </div>
                             </div>
@@ -316,7 +320,7 @@
                                     <small class="h6 text-muted">空岛、模组服管理</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="https://space.bilibili.com/22935060" type="warning" icon="fa-brands fa-bilibili" rounded
+                                    <base-button tag="a" href="https://space.bilibili.com/22935060" type="warning" icon="fa fa-address-card" rounded
                                                  icon-only></base-button>
                                 </div>
                             </div>
@@ -333,7 +337,7 @@
                                     <small class="h6 text-muted">吉祥物</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="https://space.bilibili.com/399932543" type="warning" icon="fa-brands fa-bilibili" rounded
+                                    <base-button tag="a" href="https://space.bilibili.com/399932543" type="warning" icon="fa fa-address-card" rounded
                                                  icon-only></base-button>
                                 </div>
                             </div>
