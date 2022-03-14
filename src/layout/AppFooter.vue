@@ -25,7 +25,7 @@
                     <div class="copyright">
                         &copy; 2018 - {{year}}
                         <a href="https://blog.vlssu.com" target="_blank" rel="noopener">飒爽师叔</a>
-                        <a href="http://beian.miit.gov.cn" class="nav-link" target="_blank" rel="noopener">陕ICP备2021007711号-4</a>
+                        <a href="http://beian.miit.gov.cn" class="nav-link" target="_blank" rel="noopener">沪ICP备2022002870号-9</a>
                     </div>
                 </div>
                 <div class="col-md-6">
