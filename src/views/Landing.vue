@@ -248,9 +248,11 @@
                                     <small class="h6 text-muted">服务器、网站等总管理</small>
                                 </h5>
                                 <div class="mt-3">
+                                    <base-button tag="a" href="https://space.bilibili.com/22219285" type="warning" icon="fa-brands fa-bilibili" rounded
+                                                 icon-only></base-button>
                                     <base-button tag="a" href="mailto:vlssu@vlssu.com" type="warning" icon="fa fa-envelope" rounded
                                                  icon-only></base-button>
-                                    <base-button tag="a" href="//blog.vlssu.com" type="warning" icon="fa fa-external-link" rounded
+                                    <base-button tag="a" href="https://blog.vlssu.com" type="warning" icon="fa fa-external-link" rounded
                                                  icon-only></base-button>
                                 </div>
                             </div>
@@ -279,6 +281,10 @@
                                     <span class="d-block mb-1">Im_Jean</span>
                                     <small class="h6 text-muted">吉祥物、服务器创始人</small>
                                 </h5>
+                                <div class="mt-3">
+                                    <base-button tag="a" href="https://space.bilibili.com/26658005" type="warning" icon="fa-brands fa-bilibili" rounded
+                                                 icon-only></base-button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -292,6 +298,10 @@
                                     <span class="d-block mb-1">葵</span>
                                     <small class="h6 text-muted">服务器管理</small>
                                 </h5>
+                                <div class="mt-3">
+                                    <base-button tag="a" href="https://space.bilibili.com/97475627" type="warning" icon="fa-brands fa-bilibili" rounded
+                                                 icon-only></base-button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -305,6 +315,27 @@
                                     <span class="d-block mb-1">能力</span>
                                     <small class="h6 text-muted">空岛、模组服管理</small>
                                 </h5>
+                                <div class="mt-3">
+                                    <base-button tag="a" href="https://space.bilibili.com/22935060" type="warning" icon="fa-brands fa-bilibili" rounded
+                                                 icon-only></base-button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+                        <div class="px-4">
+                            <img v-lazy="'img/theme/team-6-800x800.jpg'"
+                                 class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
+                                 style="width: 200px;">
+                            <div class="pt-4 text-center">
+                                <h5 class="title">
+                                    <span class="d-block mb-1">CN_Tong</span>
+                                    <small class="h6 text-muted">吉祥物</small>
+                                </h5>
+                                <div class="mt-3">
+                                    <base-button tag="a" href="https://space.bilibili.com/399932543" type="warning" icon="fa-brands fa-bilibili" rounded
+                                                 icon-only></base-button>
+                                </div>
                             </div>
                         </div>
                     </div>
