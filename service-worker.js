@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vue-argon-design-system/precache-manifest.a06bcdf19f8429e3c80b3ea9a2b2984c.js"
+  "/precache-manifest.48984be63230cfe148059a2600356957.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-argon-design-system"});
+workbox.core.setCacheNameDetails({prefix: "vlssu-minecraft-public-service"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
