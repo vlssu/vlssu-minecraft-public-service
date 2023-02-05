@@ -37,10 +37,7 @@
                             <a href="//skin.vlssu.com" class="nav-link" target="_blank" rel="noopener">VlssuSkin皮肤站</a>
                         </li>
                         <li class="nav-item">
-                            <a href="//womadao.warma.ren" class="nav-link" target="_blank" rel="noopener">沃玛岛服务器</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/manual"
+                            <a href="//docs.vlssu.cn"
                                class="nav-link" target="_blank" rel="noopener">服务器文档</a>
                         </li>
                     </ul>
