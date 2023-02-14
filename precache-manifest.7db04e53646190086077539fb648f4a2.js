@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "14fdb9b86fad63634ad4",
-    "url": "/js/app.b44b6b9b.js"
+    "revision": "f1dfe8b2ec8a45aa1923",
+    "url": "/js/app.1f7a2727.js"
   },
   {
     "revision": "76496668a6f5d2afccee",
@@ -48,8 +48,12 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "989a16a7f6e0e5e5105392d803ae1fc5",
+    "revision": "3188c11c3e036cb927f8b30c07c99637",
     "url": "/index.html"
+  },
+  {
+    "revision": "33646a8cf231be034ce4e4061d6bbc06",
+    "url": "/css/fontsOpenSans.css"
   },
   {
     "revision": "554c749a0b29479ea1ee373732d49195",
