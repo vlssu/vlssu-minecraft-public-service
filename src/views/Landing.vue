@@ -23,7 +23,7 @@
                                         服务器文档
                                     </base-button>
                                     <base-button tag="a"
-                                                 href="https://cloud.vlssu.com/#/s/ZNCW"
+                                                 href="https://cloud.vlssu.com/s/ZNCW"
                                                  class="mb-3 mb-sm-0"
                                                  type="white"
                                                  icon="ni ni-cloud-download-95">
