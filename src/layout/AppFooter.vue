@@ -22,10 +22,11 @@
             <hr>
             <div class="row align-items-center justify-content-md-between">
                 <div class="col-md-6">
-                    <div class="copyright">
+                    <div class="copyright" style="display:inline-block;">
                         &copy; 2018 - {{year}}
                         <a href="https://blog.vlssu.com" target="_blank" rel="noopener">飒爽师叔</a>
                         <a href="http://beian.miit.gov.cn" class="nav-link" target="_blank" rel="noopener">赣ICP备2023000574号-1</a>
+                        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36010802000815" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/img/icons/gongan.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">赣公网安备 36010802000815号</p></a>
                     </div>
                 </div>
                 <div class="col-md-6">
