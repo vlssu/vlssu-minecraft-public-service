@@ -58,11 +58,11 @@
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <span class="btn btn-primary">服务器卫星地图</span>
                     </a>
-                    <a href="//zn.vlssu.com:40002" class="dropdown-item">生存服</a>
-                    <a href="//zn.vlssu.com:40003" class="dropdown-item">创造服</a>
-                    <a href="//zn.vlssu.com:40004" class="dropdown-item">模组服</a>
-                    <a href="//zn.vlssu.com:40005" class="dropdown-item">空岛服</a>
-                    <a href="//zn.vlssu.com:40007" class="dropdown-item">OLD生存服</a>
+                    <a href="//mc.vlssu.cn/map/survival_6" class="dropdown-item">生存服</a>
+                    <a href="//mc.vlssu.cn/map/creative" class="dropdown-item">创造服</a>
+                    <a href="//mc.vlssu.cn/map/mod-server" class="dropdown-item">模组服</a>
+                    <a href="//mc.vlssu.cn/map/bskyblock" class="dropdown-item">空岛服</a>
+                    <a href="//mc.vlssu.cn/map/old-survive" class="dropdown-item">OLD生存服</a>
                 </base-dropdown>
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
