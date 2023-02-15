@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "ee73c81b03197bc1ac06",
-    "url": "/js/app.df960b73.js"
+    "revision": "e249f1116c7be332fd4c",
+    "url": "/js/app.f946d98f.js"
   },
   {
     "revision": "76496668a6f5d2afccee",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "37c2e7b479beeb65ffc8a9a0decae597",
+    "revision": "06ae1dea6e1aa48c56110a45954bc99e",
     "url": "/index.html"
   },
   {
@@ -98,6 +98,10 @@ self.__precacheManifest = [
   {
     "revision": "ace9329cafce4e18f7b10d05a3717823",
     "url": "/img/brand/head.png"
+  },
+  {
+    "revision": "d96d8dc80185dbe42742f3884049b0b9",
+    "url": "/img/brand/VLSSUBLOG.svg"
   },
   {
     "revision": "298fb27eae1bfea193134e37baf906fa",
@@ -154,9 +158,5 @@ self.__precacheManifest = [
   {
     "revision": "96b14dd47592daf8c3afff354dd81f21",
     "url": "/img/theme/team-6-800x800.jpg"
-  },
-  {
-    "revision": "d96d8dc80185dbe42742f3884049b0b9",
-    "url": "/img/brand/VLSSUBLOG.svg"
   }
 ];
