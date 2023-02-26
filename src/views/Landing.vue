@@ -16,7 +16,7 @@
                                 <p class="lead  text-white">    而是共同繁荣下的各自璀璨</p>
                                 <div class="btn-wrapper">
                                     <base-button tag="a"
-                                                 href="https://docs.vlssu.cn"
+                                                 href="https://docs.vlssu.com/mcserver"
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  icon="fa fa-code">
@@ -60,7 +60,7 @@
                                         <badge type="primary" rounded>建造</badge>
                                         <badge type="primary" rounded>合作</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/survive" type="primary" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/survive" type="primary" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -77,7 +77,7 @@
                                         <badge type="success" rounded>创世</badge>
                                         <badge type="success" rounded>合作</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/creative" type="success" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/creative" type="success" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -93,7 +93,7 @@
                                         <badge type="info" rounded>新模式</badge>
                                         <badge type="info" rounded>新体验</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/mod-server" type="info" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/mod-server" type="info" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -111,7 +111,7 @@
                                         <badge type="warning" rounded>孤岛生存</badge>
                                         <badge type="warning" rounded>无中生有</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/bskyblock" type="warning" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/bskyblock" type="warning" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -127,7 +127,7 @@
                                         <badge type="yellow" rounded>原版纯生存</badge>
                                         <badge type="yellow" rounded>全新体验</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/beta-survive" type="yellow" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/beta-survive" type="yellow" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -141,7 +141,7 @@
                                     <div>
                                         <badge type="light" rounded>敬请期待</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.cn/summary/server/login" type="light" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/login" type="light" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>

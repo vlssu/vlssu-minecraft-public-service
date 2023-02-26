@@ -38,7 +38,7 @@
                             <a href="//skin.vlssu.com" class="nav-link" target="_blank" rel="noopener">VlssuSkin皮肤站</a>
                         </li>
                         <li class="nav-item">
-                            <a href="//docs.vlssu.cn"
+                            <a href="//docs.vlssu.com/mcserver"
                                class="nav-link" target="_blank" rel="noopener">服务器文档</a>
                         </li>
                     </ul>
