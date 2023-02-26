@@ -20,7 +20,7 @@
                                                  class="mb-3 mb-sm-0"
                                                  type="info"
                                                  icon="fa fa-code">
-                                        服务器文档
+                                        服务器说明
                                     </base-button>
                                     <base-button tag="a"
                                                  href="https://cloud.vlssu.com/s/ZNCW"
