@@ -228,6 +228,38 @@
                 </div>
             </div>
         </section>
+        <section class="section section-lg section-shaped overflow-hidden my-0">
+            <div class="shape shape-style-2 shape-default shape-skew">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="container container-lg py-0 pb-lg">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-lg-3 mb-5 mb-lg-0">
+                        <h1 class="text-white font-weight-light">聚会渲染图</h1>
+                        <p class="lead text-white mt-4">我们将不定时征地图，并让服务器玩家报名，最后将各位放入渲染图中</p>
+                        <a href="https://jq.qq.com/?_wv=1027&k=5mq4JvN"
+                        class="btn btn-white mt-4">加入QQ群吧~</a>
+                    </div>
+                    <div class="col-lg-9 mb-lg-auto">
+                        <div class="rounded shadow-lg overflow-hidden transform-perspective-right">
+                            <b-carousel id="carousel1"
+                                        controls
+                                        indicators>
+                                <!-- Text slides with image -->
+                                <b-carousel-slide img-src="/img/theme/VLssuServer-img1.webp"></b-carousel-slide>
+                                <b-carousel-slide img-src="/img/theme/VLssuServer-img2.webp"></b-carousel-slide>
+                                <b-carousel-slide img-src="/img/theme/VLssuServer-img3.webp"></b-carousel-slide>
+                            </b-carousel>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section class="section section-lg">
             <div class="container">
                 <div class="row justify-content-center text-center mb-lg">
@@ -376,8 +408,14 @@
 </template>
 
 <script>
+import { BCarousel } from "bootstrap-vue/esm/components/carousel/carousel";
+import { BCarouselSlide } from "bootstrap-vue/esm/components/carousel/carousel-slide";
+
 export default {
   name: "home",
-  components: {}
+  components: {
+    BCarousel,
+    BCarouselSlide
+  }
 };
 </script>
