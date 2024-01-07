@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "c783049fd940e7178f4a",
-    "url": "/js/app.91469937.js"
+    "revision": "3fa638bab4813e868954",
+    "url": "/js/app.78d2236b.js"
   },
   {
     "revision": "93555e054f58b179b205",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "18c1299827633219889ed80c59ce9f96",
+    "revision": "0fe587f7bbd711dbbd3510c4627f4b79",
     "url": "/index.html"
   },
   {
@@ -96,16 +96,16 @@ self.__precacheManifest = [
     "url": "/img/brand/head.png"
   },
   {
-    "revision": "28f64ea06d250f72110f5260faccd663",
-    "url": "/img/brand/banner_3.jpg"
-  },
-  {
     "revision": "d96d8dc80185dbe42742f3884049b0b9",
     "url": "/img/brand/VLSSUBLOG.svg"
   },
   {
     "revision": "298fb27eae1bfea193134e37baf906fa",
     "url": "/img/brand/white.png"
+  },
+  {
+    "revision": "28f64ea06d250f72110f5260faccd663",
+    "url": "/img/brand/banner_3.jpg"
   },
   {
     "revision": "594b1ee1d95ada356eaad078e9217932",
@@ -116,16 +116,16 @@ self.__precacheManifest = [
     "url": "/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "cad5631eacb094a148ea2ba20669c843",
-    "url": "/img/theme/img-1.jpg"
-  },
-  {
     "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
     "url": "/img/theme/img-2-1200x1000.jpg"
   },
   {
     "revision": "dc49ad52655e1d9d0552c026db3ef688",
     "url": "/img/theme/landing.jpg"
+  },
+  {
+    "revision": "cad5631eacb094a148ea2ba20669c843",
+    "url": "/img/theme/img-1.jpg"
   },
   {
     "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
@@ -140,24 +140,24 @@ self.__precacheManifest = [
     "url": "/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "065926b182a2fcf67c61cdd9fe166326",
-    "url": "/img/theme/team-2-800x800.jpg"
-  },
-  {
     "revision": "80b8772aaa8f07c9b535f9206ead0d36",
     "url": "/img/theme/team-3-800x800.jpg"
+  },
+  {
+    "revision": "065926b182a2fcf67c61cdd9fe166326",
+    "url": "/img/theme/team-2-800x800.jpg"
   },
   {
     "revision": "33d5be733c74bfd41e5eb3e8d45ea26f",
     "url": "/img/theme/team-4-800x800.jpg"
   },
   {
-    "revision": "3ad1a3f5c1f402200fa75a61118a4bf9",
-    "url": "/img/theme/team-5-800x800.jpg"
-  },
-  {
     "revision": "96b14dd47592daf8c3afff354dd81f21",
     "url": "/img/theme/team-6-800x800.jpg"
+  },
+  {
+    "revision": "3ad1a3f5c1f402200fa75a61118a4bf9",
+    "url": "/img/theme/team-5-800x800.jpg"
   },
   {
     "revision": "1fd2f41b7a1be6590ad61df3d76ba8e3",
