@@ -141,7 +141,7 @@
                                     <div>
                                         <badge type="light" rounded>敬请期待</badge>
                                     </div>
-                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server/login" type="light" class="mt-4">
+                                    <base-button tag="a" href="https://docs.vlssu.com/mcserver/summary/server" type="light" class="mt-4">
                                         了解更多
                                     </base-button>
                                 </card>
@@ -298,7 +298,7 @@
                             <div class="pt-4 text-center">
                                 <h5 class="title">
                                     <span class="d-block mb-1">冰心</span>
-                                    <small class="h6 text-muted">空岛服管理</small>
+                                    <small class="h6 text-muted">生电服管理</small>
                                 </h5>
                                 <div class="mt-3">
                                     <base-button tag="a" href="https://space.bilibili.com/106446416" type="warning" icon="fa fa-address-card" rounded
