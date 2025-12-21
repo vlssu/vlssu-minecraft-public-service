@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5f8ad464ce737c62ecc9fda9d2816b4f.js"
+  "/precache-manifest.ee571cead63d4d2734098b72f00109ad.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vlssu-minecraft-public-service"});
