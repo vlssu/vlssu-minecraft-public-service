@@ -46,9 +46,7 @@ jobs:
           node-version: 20
 
       - name: 安装依赖
-        run: |
-          corepack enable
-          yarn set version stable
+        run: |-
           yarn
 
       - name: 构建文档
