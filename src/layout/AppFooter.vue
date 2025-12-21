@@ -25,8 +25,8 @@
                     <div class="copyright">
                         &copy; 2018 - {{year}}
                         <a href="https://blog.vlssu.com" target="_blank" rel="noopener">飒爽师叔</a>|
-                        <a href="http://beian.miit.gov.cn" target="_blank" rel="noopener">沪ICP备2024046839号-4</a>|
-                        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=36010802000815" target="_blank" rel="noopener"><img src="/img/icons/gongan.png"/>&nbsp;赣公网安备 36010802000815号</a>
+                        <a href="http://beian.miit.gov.cn" target="_blank" rel="noopener">沪ICP备2025151889号-5</a>|
+                        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31012002006924" target="_blank" rel="noopener"><img src="/img/icons/gongan.png"/>&nbsp;沪公网安备31012002006924号</a>
                     </div>
                 </div>
                 <div class="col-md-5">
