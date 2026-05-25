@@ -7,7 +7,7 @@
                     <h4 class="mb-0 font-weight-light">你也可以加入我们任意的聊天群</h4>
                 </div>
                 <div class="col-lg-6 text-lg-center btn-wrapper">
-                    <a target="_blank" rel="noopener" href="https://jq.qq.com/?_wv=1027&k=5mq4JvN"
+                    <a target="_blank" rel="noopener" href="https://qm.qq.com/q/BqZcEJ2v5e"
                        class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="加入我们的QQ群">
                         <i class="fa fa-qq"></i>
