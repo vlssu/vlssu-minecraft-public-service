@@ -23,14 +23,14 @@
                                         服务器说明
                                     </base-button>
                                     <base-button tag="a"
-                                                 href="https://zfile.vlssu.com/mc"
+                                                 href="https://qm.qq.com/q/BqZcEJ2v5e"
                                                  class="mb-3 mb-sm-0"
                                                  type="white"
                                                  icon="ni ni-cloud-download-95">
-                                        下载客户端
+                                        进群下载客户端
                                     </base-button>
                                     <base-button tag="a"
-                                                 href="https://jq.qq.com/?_wv=1027&k=5mq4JvN"
+                                                 href="https://qm.qq.com/q/BqZcEJ2v5e"
                                                  class="mb-3 mb-sm-0"
                                                  type="success"
                                                  icon="fa fa-qq">
@@ -222,7 +222,7 @@
                             <p>2019-12月第二周目正式落幕并重新规划开启三周目，但时间不长没有注重备份与服务器维护被黑，所有数据全没，被迫改为过度周目并重新开启三周目</p>
                             <p>2020年服务器逐步推向群组服，并将服务器多元化</p>
                             <p>2021年服务器渐渐稳定，所有环境、网站、数据库实时/定时备份，让服务器数据不再丢失、担惊受怕。</p>
-                            <a href="https://jq.qq.com/?_wv=1027&k=5mq4JvN" class="font-weight-bold text-warning mt-5">欢迎加入我们的QQ群</a>
+                            <a href="https://qm.qq.com/q/BqZcEJ2v5e" class="font-weight-bold text-warning mt-5">欢迎加入我们的QQ群</a>
                         </div>
                     </div>
                 </div>
@@ -242,7 +242,7 @@
                     <div class="col-lg-3 mb-5 mb-lg-0">
                         <h1 class="text-white font-weight-light">聚会渲染图</h1>
                         <p class="lead text-white mt-4">我们将不定时征地图，并让服务器玩家报名，最后将各位放入渲染图中</p>
-                        <a href="https://jq.qq.com/?_wv=1027&k=5mq4JvN"
+                        <a href="https://qm.qq.com/q/BqZcEJ2v5e"
                         class="btn btn-white mt-4">加入QQ群吧~</a>
                     </div>
                     <div class="col-lg-9 mb-lg-auto">
@@ -392,7 +392,7 @@
                                 <p class="lead text-white mt-3">如果有什么建议或者想法可以在论坛中跟我们讲出，可以加入我们的QQ群，但论坛不符合国人来使用，所以更多我们在QQ群中讲出或收集建议，如果说你给我们提了建议，但是我们都没有回应你，那你可以发邮件来提醒我</p>
                             </div>
                             <div class="col-lg-3 ml-lg-auto">
-                                <base-button tag="a" href="https://jq.qq.com/?_wv=1027&k=5mq4JvN"
+                                <base-button tag="a" href="https://qm.qq.com/q/BqZcEJ2v5e"
                                              type="white" block size="lg">
                                     加入我们的QQ群
                                 </base-button>
