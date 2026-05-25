@@ -58,7 +58,7 @@
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <span class="btn btn-primary">服务器卫星地图</span>
                     </a>
-                    <a href="//mc.vlssu.cn/map/survival_6" class="dropdown-item">生存服</a>
+                    <a href="//mc.vlssu.cn/map" class="dropdown-item">生存服</a>
                     <a href="//mc.vlssu.cn/map/creative" class="dropdown-item">创造服</a>
                     <a href="//mc.vlssu.cn/map/mod-server" class="dropdown-item">模组服</a>
                     <a href="//mc.vlssu.cn/map/bskyblock" class="dropdown-item">空岛服</a>
@@ -73,12 +73,12 @@
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://cloud.vlssu.com/s/ZNCW" target="_blank" rel="noopener"
+                    <a href="https://qm.qq.com/q/BqZcEJ2v5e" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-cloud-download mr-2"></i>
                 </span>
-                        <span class="nav-link-inner--text">Download</span>
+                        <span class="nav-link-inner--text">下载客户端</span>
                     </a>
                 </li>
             </ul>
