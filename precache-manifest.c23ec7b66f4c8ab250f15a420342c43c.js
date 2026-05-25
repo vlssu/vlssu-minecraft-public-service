@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3eab17131ac0fc2c681b",
-    "url": "/js/app.b431f592.js"
+    "revision": "9489f10a8277989f0068",
+    "url": "/js/app.d39385bc.js"
   },
   {
     "revision": "40b69e8799567c6a10d2",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "d09f313c67d5ae9936c08bfbdd5682b9",
+    "revision": "2c5642ed5e16c6548c2417a5d40ace3a",
     "url": "/index.html"
   },
   {
@@ -64,20 +64,24 @@ self.__precacheManifest = [
     "url": "/img/brand/afdian.png"
   },
   {
+    "revision": "c014eadd62065fd0f7864e1796a5fd87",
+    "url": "/favicon.svg"
+  },
+  {
     "revision": "4d12e9879ada2aa0444b8da9d9e1f4a1",
     "url": "/img/brand/banner_1.jpg"
   },
   {
-    "revision": "c014eadd62065fd0f7864e1796a5fd87",
-    "url": "/favicon.svg"
+    "revision": "cc4638ad35dae35ce68c767e9f482784",
+    "url": "/img/brand/blue.png"
   },
   {
     "revision": "298fb27eae1bfea193134e37baf906fa",
     "url": "/img/brand/creativetim-white-slim.png"
   },
   {
-    "revision": "cc4638ad35dae35ce68c767e9f482784",
-    "url": "/img/brand/blue.png"
+    "revision": "e0d24a97423950853b8668eee5cf9c98",
+    "url": "/img/brand/banner_2.jpg"
   },
   {
     "revision": "554c749a0b29479ea1ee373732d49195",
@@ -88,56 +92,52 @@ self.__precacheManifest = [
     "url": "/img/brand/github-white-slim.png"
   },
   {
-    "revision": "ace9329cafce4e18f7b10d05a3717823",
-    "url": "/img/brand/head.png"
-  },
-  {
-    "revision": "e0d24a97423950853b8668eee5cf9c98",
-    "url": "/img/brand/banner_2.jpg"
+    "revision": "298fb27eae1bfea193134e37baf906fa",
+    "url": "/img/brand/white.png"
   },
   {
     "revision": "d96d8dc80185dbe42742f3884049b0b9",
     "url": "/img/brand/VLSSUBLOG.svg"
   },
   {
-    "revision": "298fb27eae1bfea193134e37baf906fa",
-    "url": "/img/brand/white.png"
+    "revision": "ace9329cafce4e18f7b10d05a3717823",
+    "url": "/img/brand/head.png"
   },
   {
-    "revision": "28f64ea06d250f72110f5260faccd663",
-    "url": "/img/brand/banner_3.jpg"
+    "revision": "594b1ee1d95ada356eaad078e9217932",
+    "url": "/img/ill/ill-2.svg"
   },
   {
     "revision": "fd4a34d026fb9e0f4867188d47b11ba8",
     "url": "/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "dc49ad52655e1d9d0552c026db3ef688",
-    "url": "/img/theme/landing.jpg"
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/img/theme/img-2-1200x1000.jpg"
   },
   {
     "revision": "cad5631eacb094a148ea2ba20669c843",
     "url": "/img/theme/img-1.jpg"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/img/theme/img-2-1200x1000.jpg"
-  },
-  {
     "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
     "url": "/img/theme/profile.jpg"
+  },
+  {
+    "revision": "dc49ad52655e1d9d0552c026db3ef688",
+    "url": "/img/theme/landing.jpg"
   },
   {
     "revision": "c48561e6d0a36ae4dbf3493aeeaf3724",
     "url": "/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "bcb489b46803d86cc679f072b418e430",
-    "url": "/img/theme/promo-1.png"
-  },
-  {
     "revision": "80b8772aaa8f07c9b535f9206ead0d36",
     "url": "/img/theme/team-3-800x800.jpg"
+  },
+  {
+    "revision": "bcb489b46803d86cc679f072b418e430",
+    "url": "/img/theme/promo-1.png"
   },
   {
     "revision": "33d5be733c74bfd41e5eb3e8d45ea26f",
@@ -156,8 +156,8 @@ self.__precacheManifest = [
     "url": "/img/theme/team-6-800x800.jpg"
   },
   {
-    "revision": "594b1ee1d95ada356eaad078e9217932",
-    "url": "/img/ill/ill-2.svg"
+    "revision": "28f64ea06d250f72110f5260faccd663",
+    "url": "/img/brand/banner_3.jpg"
   },
   {
     "revision": "1fd2f41b7a1be6590ad61df3d76ba8e3",
