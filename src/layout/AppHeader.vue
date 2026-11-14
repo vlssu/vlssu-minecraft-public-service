@@ -73,7 +73,7 @@
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://qm.qq.com/q/BqZcEJ2v5e" target="_blank" rel="noopener"
+                    <a href="https://qm.qq.com/q/QwgcJzuTQG" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-cloud-download mr-2"></i>
